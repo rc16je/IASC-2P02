@@ -1,5 +1,6 @@
-# Blog Post
-hello world
+# IASC 2P02 | Rebecca Cross 
+
+Blog Intro
 
 
 
