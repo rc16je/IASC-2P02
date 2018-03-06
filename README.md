@@ -11,4 +11,4 @@ I am a second year student at Brock University, taking Interactive Arts and Scie
 
 
 "First Sentence Goes Here..." 
-      <a href="https://github.com/rc16je/IASC-2P02/blob/master/blog">continue reading</a>
+      <a href="https://github.com/rc16je/IASC-2P02/blob/master/blog.md">continue reading</a>
