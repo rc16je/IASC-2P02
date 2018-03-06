@@ -1,5 +1,8 @@
 # IASC 2P02 | Rebecca Cross 
-# Blog Introduction 
+# About Me 
+
+I am a second year student at Brock University, taking Interactive Arts and Science a four year program. In the digital humanities field, studying complex theories and applying them to my everyday life. 
+
 
 
 
