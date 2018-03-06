@@ -10,5 +10,5 @@ I am a second year student at Brock University, taking Interactive Arts and Scie
 <img src="johanna-drucker.jpg" alt="drucker" style="width:1000px;height:900px;">
 
 
-"First Sentence Goes Here..." 
-      <a href="https://github.com/rc16je/IASC-2P02/blob/master/blog.md">continue reading</a>
+"This blog is about..." 
+      <a href="https://rc16je.github.io/IASC-2P02/blog">continue reading</a>
