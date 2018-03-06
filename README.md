@@ -3,7 +3,7 @@ hello world
 
 
 
-<img src="johanna-drucker.jpg" alt="drucker">
+<img src="johanna-drucker.jpg" alt="drucker" style="width:500px;height:600px;">
 
 
 "First Sentence Goes Here..." 
