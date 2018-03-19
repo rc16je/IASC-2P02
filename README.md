@@ -13,5 +13,5 @@ I am a second year student at Brock University, taking Interactive Arts and Scie
 "This blog is about..." 
       <a href="https://rc16je.github.io/IASC-2P02/blog">continue reading</a>
       
-      ## Solo Presentations
-      [click here] "https://rc16je.github.io/IASC-2P02/reveal/"
+
+       <a href="https://rc16je.github.io/IASC-2P02/reveal/"[click here]</a>
