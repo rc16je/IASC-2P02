@@ -6,7 +6,7 @@ I am a student at Brock University, currently in my second year. I am studying i
 My recent projects reflected my ability to investigate a topic and come to an opinion with academic evidence. In my Academic Blog project, I focused on “Humanity and Graphical Data Display” and how it can be easily misinterpreted by Humans. I studied Drucker"s arguments heavily to draw my own conclusion on the issue. To test this argument I used a digital graph tool to create my own visual graph with shapes and colors. Pursuing cultural studies relies heavily on these skills. Understanding historical foundations are crucial to understanding wider systems of power that directly affect political and social issues. I will continue this study to grasp how we create class structures, social ideologies and how generations evolve. My work will focus on historical events and how they continue to affect our society. My work would be published online as academic articles. My future work will always be opened sourced and available to all who love to learn.
  
 
-<img src="johanna-drucker.jpg" alt="drucker" style="width:1000px;height:900px;">
+<img src="blog post.jpg" alt="appealing graphs" style="width:600px;height:518px;">
 
 ## Feature Project: [Title of project here]
 
