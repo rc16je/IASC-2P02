@@ -24,6 +24,8 @@ here is my 100 word project description
 
 here is my 250 word collaboration statment. I approach collaboration in x ways, which is reflected in y work (available [here] (...) I also approach collaboration in a ways, which is reflected in b work (available [here] (...) I also contributed x assets to my team, seen below. 
 
+7729507fcc45eed89ab7ab94dc488f6c1e4808f6
+
 ![](...)
 
 ## Research Presentation
