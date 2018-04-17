@@ -36,7 +36,7 @@ We collaborated on the CORE feature because it has a lot to offer, it is a digit
 I worked closely with my group during class time, overall in the digital humanities field collaboration is key to moving forward and producing great projects. Working as a team in this project was easy because we had class time to talk and work out the individual jobs of each group member. Collaboration between class members allows us to grow and gain a deeper understanding of topics discussed in class. Large class discussions can sometimes be overwhelming for most students, concentrated groups allows for individuals to feel more comfortable and more involved in the discussions.  
 
 Lastly I uploaded the group powerpoint to our repository in github under “Overview”. Link to commit 
-https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commits/Team2/Overview/Humanities%20Commons.pdf 
+<a href="https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commits/Team2/Overview/Humanities%20Commons.pdf">PowerPoint Commit</a> 
 
 
 
