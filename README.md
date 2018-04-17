@@ -21,13 +21,20 @@ read <a href="https://rc16je.github.io/IASC-2P02/blog">Revised Academic Blog</a>
 
 ## Collaborative Project
 
-here is my 100 word project description 
+Team Two focused on the Humanities Commons, a website in the format of a blog. It was created using WordPress. A very popular blog platform. The idea behind the humanities commons is open access information, free to read and study from. Only accounts verified by the website are allowed to upload articles and express their opinions. The work published can never be re-published anywhere else for profit even if it is being published by the owner/author. This website has thousands of users that share their work and knowledge. Scholars in the digital humanities use this site as a way communication. Their theories are all protected by the website under their copyright.
 
-here is my 250 word collaboration statment. I approach collaboration in x ways, which is reflected in y work (available [here] (...) I also approach collaboration in a ways, which is reflected in b work (available [here] (...) I also contributed x assets to my team, seen below. 
+As a group we used all of the given lab time and work periods in lecture to discuss our roles. I contributed to the group by focusing on some of the main features the humanities commons offer. I made 3 slides with screenshot images of the website and wrote the point. One of the slides “Core Repository” didn’t explain the full feature of the CORE, so a second slide was added by my group member. My CORE slide is below. 
 
-7729507fcc45eed89ab7ab94dc488f6c1e4808f6
+<img src="pulpitrock.jpg" alt="Mountain View">
 
-![](...)
+We collaborated on the CORE feature because it has a lot to offer, it is a digital library that holds all the academic work and articles that are on the humanities commons as well as the legal implications of uploading academic work. The CORE is the main feature of the website, so we found it suiting to split the research of this feature in half. I presented on the Sites and Group slide. These slides are below.
+
+<img src="pulpitrock.jpg" alt="Mountain View">
+
+I worked closely with my group during class time, overall in the digital humanities field collaboration is key to moving forward and producing great projects. Working as a team in this project was easy because we had class time to talk and work out the individual jobs of each group member. Collaboration between class members allows us to grow and gain a deeper understanding of topics discussed in class. Large class discussions can sometimes be overwhelming for most students, concentrated groups allows for individuals to feel more comfortable and more involved in the discussions.  
+
+Lastly I uploaded the group powerpoint to our repository in github under “Overview”. Link to commit https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/7729507fcc45eed89ab7ab94dc488f6c1e4808f6#diff-5016e17fff418d6a55f3b3e410e44e7f 	
+
 
 ## Research Presentation
 
