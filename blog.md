@@ -21,7 +21,7 @@ Charts and graphs aren’t the only way data is visually presented, a popular me
 
 The example below shows the word “education” and the words surrounding it are related terms. This group of words represent “education” and the system it follows. There are both positive words like “justice”, “development” and “learning” but there are also negative ones such as “oppression”, “systems” and “privileged”. These terms are heavily used to explain the system of education. These charts can be extremely useful in targeting key ideas just like the education example, but misused or overused will result in a chart with little meaning. 
 
-<img src="meta-chart.jpeg" alt="education example">
+<img src="education.jpg" alt="education example">
 
 Charts that use geometric forms are misleading and cannot show the full amount of data there is. Lines, bars and pies are the most common shapes for charts and diagrams because it is easy for people to understand data. Data shown in numbers are only understandable to the people that know what that data represents (in some cases the lower the number the better, is based on prior knowledge i.e ping should be low) , so it is no surprise that data has taken a visual form in pie charts and columns for easier understanding.  All of these ways of visualizing data has come from fields outside of digital humanities, we base our data representation on other systems without thinking of the implications of our data being misrepresented. Drucker states "To intervene in this ideological system, humanists, and the values they embrace and enact, must counter with conceptual tools that demonstrate humanities principles in their operation, execution, and display. The digital humanities can no longer afford to take its tools and methods from disciplines whose fundamental epistemological assumptions are at odds with humanistic method." It is in our best interest to pull away from this norm of visualization and create a new way of looking at data based on our own principles and values in the digital humanities.
 
@@ -34,3 +34,6 @@ Gold, Matthew K. “The digital humanities moment.” Debates in the Digital Hum
 
 Tool used https://www.meta-chart.com/bar#/display to create the women abuse bar chart example. 
 
+Voyant Tool used http://voyant-tools.org/
+
+Harry Potter Summary http://www.imdb.com/title/tt0241527/plotsummary 
