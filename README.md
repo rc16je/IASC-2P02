@@ -25,11 +25,13 @@ Team Two focused on the Humanities Commons, a website in the format of a blog. I
 
 As a group we used all of the given lab time and work periods in lecture to discuss our roles. I contributed to the group by focusing on some of the main features the humanities commons offer. I made 3 slides with screenshot images of the website and wrote the point. One of the slides “Core Repository” didn’t explain the full feature of the CORE, so a second slide was added by my group member. My CORE slide is below. 
 
-<img src="pulpitrock.jpg" alt="Mountain View">
+<img src="core.png" alt="CORE slide">
 
 We collaborated on the CORE feature because it has a lot to offer, it is a digital library that holds all the academic work and articles that are on the humanities commons as well as the legal implications of uploading academic work. The CORE is the main feature of the website, so we found it suiting to split the research of this feature in half. I presented on the Sites and Group slide. These slides are below.
 
-<img src="pulpitrock.jpg" alt="Mountain View">
+<img src="groups.png" alt="Groups slide">
+
+<img src="sites.png" alt="Sites slide">
 
 I worked closely with my group during class time, overall in the digital humanities field collaboration is key to moving forward and producing great projects. Working as a team in this project was easy because we had class time to talk and work out the individual jobs of each group member. Collaboration between class members allows us to grow and gain a deeper understanding of topics discussed in class. Large class discussions can sometimes be overwhelming for most students, concentrated groups allows for individuals to feel more comfortable and more involved in the discussions.  
 
