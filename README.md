@@ -8,15 +8,16 @@ My recent projects reflected my ability to investigate a topic and come to an op
 
 <img src="blog post.jpg" alt="appealing graphs" class="center" style="width:600px;height:518px;">
 
-## Feature Project: [Title of project here]
+## Feature Project: [Academic Blog]
 
-Here are 250 words introducing this work.
+This academic blog is the featured project of this portfolio. It focuses on the use of visual data used in society. The cons and pros are weighed against each other, both every day and academic examples are used. Visual data is heavily misinterpreted in the academic field as well as media platforms. This falls onto the digital humanities to fix this false illusion of data because it is of malpractice and has no place in the future of technology. Druckers arguments are heavily focused in this blog, her findings are simply that visual data is easily misinterpreted by humans because of the popular shapes and colours that are used. There is a time and place for visual representation such as in advertisements and posters. But not for critical information used in News outlets. A new way of explaining information should be used, it must be as accurate as possible. The digital humanities are must be tasked with changing this way of presenting data and finding a solution that everyone can understand. This problem is significant because of how little it is questioned. The vast majority of humans agree that charts and graphs are true representations of data, without a second thought. It is accepted and utilized in all fields of study such as mathematics, science and business. The only field to question it is the digital humanities. A field that is dedicated to theories and critical thinking of this digital age, where for the first time in history humans and technology meet.
 
-Here is my 250 word statment describing how this research evolved over time. I made these changes, which u can see [here] (....)
-I also made these changes, which you can see [here] (...) I also made these changes, which you can see here [here]. 
-Overall these changes show x and y changes in my thinking. 
+Based on the instructor feedback, there were a lot of revisions to be made on this blog post. Building upon the strengths and focusing more on how visualizations affect everyday life, in apps and news outlets. As well as how symbols have evolved drastically into emoji’s and icons that are accepted world wide. Giving numerous specific examples to support the overall arguments. This is the commit link to those added examples  https://github.com/rc16je/IASC-2P02/commit/65da1642291ced90df8f81a573a44880a17ba416#diff-e95c7dc8eefee7d0e25121cd7f0007ae . as well as the voyant-tool. It focused on a brief summary of “harry potter and the philosopher's stone”. Another example of this term map was added to the blog in this commit link https://github.com/rc16je/IASC-2P02/commit/2d0efe2d2da2257ef8e77e6d0ad958f840d10fb2#diff-e95c7dc8eefee7d0e25121cd7f0007ae . To make sure the structure of the post was fluent in this commit link https://github.com/rc16je/IASC-2P02/commit/aaefaca279b4c769ff0b8884726b6a75d3093fba#diff-e95c7dc8eefee7d0e25121cd7f0007ae  paragraphs were moved and photos were rearranged as well.  A technical requirement that was revised is the visible commit on github labeled “publishing commit”. Prior to this revision, I had no idea how to find the commit link on github. But now I feel that I have a stronger understanding of the platform and can use it for my personal projects and for any jobs I chose to pursue.
 
-read [title goes here] 
+Reading what Drucker was arguing, I found it difficult at first to connect with everyday scenarios. While revising my work, new ideas and examples came flooding in because of the voyant-tool I used. The term map reminded me of the school ads I used to see in Highschool for “why it’s important to pursue math”. With research I found the same posters I grew up staring at in classrooms. My understanding of Druckers arguments connected me to everyday life examples that I was missing in my original blog post.      
+ 
+
+read <a href="https://rc16je.github.io/IASC-2P02/blog">Revised Academic Blog</a>
 
 ## Collaborative Project
 
