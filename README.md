@@ -31,7 +31,7 @@ here is my 250 word collaboration statment. I approach collaboration in x ways, 
 
 ## Research Presentation
 
-[Title goes here]
+<a href="https://rc16je.github.io/IASC-2P02/reveal/">Stereoscopes-Pecha Kucha</a>
 
 ## Academic Blog
 
