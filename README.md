@@ -35,7 +35,6 @@ here is my 250 word collaboration statment. I approach collaboration in x ways, 
 
 ## Academic Blog
 
-<a href="https://rc16je.github.io/IASC-2P02/blog">Academic Blog</a>
+<a href="https://rc16je.github.io/IASC-2P02/blog">Revised Academic Blog</a>
 
-[Title goes here]
 
