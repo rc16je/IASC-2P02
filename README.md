@@ -16,7 +16,7 @@ Here is my 250 word statment describing how this research evolved over time. I m
 I also made these changes, which you can see [here] (...) I also made these changes, which you can see here [here]. 
 Overall these changes show x and y changes in my thinking. 
 
-read [title goes here](readme) 
+read [title goes here] 
 
 ## Collaborative Project
 
@@ -33,6 +33,8 @@ here is my 250 word collaboration statment. I approach collaboration in x ways, 
 [Title goes here]
 
 ## Academic Blog
+
+<a href="https://rc16je.github.io/IASC-2P02/blog.md">Academic Blog</a>
 
 [Title goes here]
 
